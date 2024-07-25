@@ -63,8 +63,7 @@ We welcome contributions! If you'd like to help improve the game, please follow 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License. 
 ---
 
 Enjoy playing **Robotic Percival's Adventures!** and happy coding!
